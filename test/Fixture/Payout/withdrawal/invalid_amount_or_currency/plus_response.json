@@ -1,0 +1,19 @@
+{
+  "type": "success",
+  "code": "1",
+  "operation_id": 11223344,
+  "request_type": "payout",
+  "external_data": {
+    "id": "tZ0jUmlsV0",
+    "code": "Succeeded",
+    "amount": 1000001,
+    "currency": "RUB"
+  },
+  "check_status_data": {
+    "service_name": "SepaViaGeDetails",
+    "operation_type": "payout",
+    "external_data": {
+      "id": "tZ0jUmlsV0"
+    }
+  }
+}

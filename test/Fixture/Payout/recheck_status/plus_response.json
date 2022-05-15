@@ -1,0 +1,10 @@
+{
+    "response": {
+        "type":"waiting",
+        "code":"100",
+        "operation_id":11223344,
+        "request_type": "check_status"
+    },
+    "check_status": true,
+    "check_status_event": "Plus\\PaymentSystem\\Processing\\SepaViaGeDetails\\Payout\\WithdrawalCheck\\CheckStatusEvent"
+}

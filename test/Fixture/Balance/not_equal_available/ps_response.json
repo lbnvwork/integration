@@ -1,0 +1,10 @@
+{
+  "sp_balances": {
+    "RUB": {
+      "total_balance": "1000.00"
+    }
+  },
+  "sp_status": "error",
+  "sp_sig": "6e41f4b4fa3ee5e1e8762427c447e0478788b87ae572f088c9e4e020a6c9b90d",
+  "sp_salt": "780848"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "success",
+  "code": "1",
+  "operation_id": 11223344,
+  "request_type": "payout",
+  "external_data": {
+    "id": "111",
+    "code": "Succeeded",
+    "amount": 1000001,
+    "currency": "RUB"
+  }
+}

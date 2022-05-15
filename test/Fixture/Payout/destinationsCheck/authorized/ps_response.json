@@ -1,0 +1,14 @@
+  {
+  "id": "111",
+  "name": "Squarey plastic thingy",
+  "identity": "10036274",
+  "currency": "RUB",
+  "resource": {
+    "type": "BankTransferSEPA",
+    "accountNumber": "22222222222",
+    "accountName": "Abu Monkey",
+    "accountEmail": "ABUMonkey22@google.com"
+  },
+  "externalID": "11223344",
+  "status": "Authorized"
+}

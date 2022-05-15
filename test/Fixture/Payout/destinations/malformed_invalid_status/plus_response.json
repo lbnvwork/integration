@@ -1,0 +1,10 @@
+{
+  "type": "decline",
+  "code": "3",
+  "operation_id": 11223344,
+  "request_type": "payout",
+  "external_data": {
+    "code":"MALFORMED",
+    "message":"[status]: The value you selected is not a valid choice."
+  }
+}

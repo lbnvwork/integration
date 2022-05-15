@@ -1,0 +1,10 @@
+{
+  "type": "decline",
+  "code": "4",
+  "operation_id": 11223344,
+  "request_type": "merchant_balance",
+  "external_data": {
+    "code":"NETWORK_ERROR",
+    "message":"No response"
+  }
+}

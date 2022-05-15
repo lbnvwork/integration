@@ -1,0 +1,10 @@
+{
+  "type": "decline",
+  "code": "3",
+  "operation_id": 11223344,
+  "request_type": "merchant_balance",
+  "external_data": {
+    "code":"MALFORMED",
+    "message":"Invalid PS response body: unexpected response body"
+  }
+}

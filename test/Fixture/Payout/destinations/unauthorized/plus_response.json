@@ -1,0 +1,13 @@
+{
+  "type": "waiting",
+  "code": "0",
+  "operation_id": 11223344,
+  "request_type": "payout",
+  "check_status_data": {
+    "service_name": "SepaViaGeDetails",
+    "operation_type": "payout",
+    "external_data": {
+      "id": "111"
+    }
+  }
+}

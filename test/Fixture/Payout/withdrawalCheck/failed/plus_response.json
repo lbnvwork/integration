@@ -1,0 +1,11 @@
+{
+  "type": "decline",
+  "code": "0",
+  "operation_id": 11223344,
+  "request_type": "payout",
+  "external_data": {
+    "id": "111",
+    "code": "Failed",
+    "message": "string"
+  }
+}

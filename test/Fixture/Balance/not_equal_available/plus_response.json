@@ -1,0 +1,10 @@
+{
+  "type": "decline",
+  "code": "0",
+  "operation_id": 11223344,
+  "request_type": "merchant_balance",
+  "external_data": {
+    "code": "DEFAULT_ERROR",
+    "message": "[available]: This field is missing."
+  }
+}

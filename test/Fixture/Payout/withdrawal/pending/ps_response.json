@@ -1,0 +1,11 @@
+{
+  "id": "tZ0jUmlsV0",
+  "wallet": "wallet_value",
+  "destination": false,
+  "body": {
+    "amount": 1000000,
+    "currency": "RUB"
+  },
+  "externalID": "11223344",
+  "status": "Pending"
+}

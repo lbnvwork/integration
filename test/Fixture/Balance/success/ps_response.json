@@ -1,0 +1,10 @@
+{
+  "own": {
+    "amount": 1430000,
+    "currency": "RUB"
+  },
+  "available": {
+    "amount": 1200000,
+    "currency": "RUB"
+  }
+}

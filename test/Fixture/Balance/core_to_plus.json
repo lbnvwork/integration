@@ -1,0 +1,21 @@
+{
+  "name": "SepaViaGeDetails",
+  "type": "merchant_balance",
+  "gate_id": "eco_dev",
+  "operation_id": 11223344,
+  "merchant_params": {
+    "name": "ShopName",
+    "identity": "1",
+    "wallet_id": "2",
+    "APIKey": "MjMyNDQxMjM6NDUzRmRnZDQ0M",
+    "payout_create_url": "https://api.empayre.com/wallet/v0/destinations",
+    "payout_check_create_url": "https://api.empayre.com/wallet/v0/destinations/{destinationID}",
+    "payout_url_complete": "https://api.empayre.com/wallet/v0/withdrawals",
+    "balance_url": "https://api.empayre.com/wallet/v0/wallets/{walletID}/account",
+    "check_status_url": "https://api.empayre.com/wallet/v0/withdrawals/{withdrawalID}",
+    "destination_lifetime": 20,
+    "max_payout_amount": 10000,
+    "min_payout_amount": 15000000,
+    "check_status_lifetime": 86400
+  }
+}
